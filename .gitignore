@@ -1,0 +1,12 @@
+# Ignore Data and Plots
+
+
+Data/
+tutorials/
+
+/Assignment1_DTSC13-306_253.pdf
+
+/DatasetDocumentation.pdf
+
+*.csv
+
