@@ -2,7 +2,10 @@
 
 
 Data/
-tutorials/
+Docs/
+og/
+Plots/Cool but useless/
+Plots/ROC
 
 /Assignment1_DTSC13-306_253.pdf
 
@@ -10,3 +13,5 @@ tutorials/
 
 *.csv
 
+/assignment_1.html
+/copy.ipynb
